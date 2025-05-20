@@ -1,0 +1,21 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environments
+ven/
+.env/
+.env.bak/
+.envrc
+
+# Editor and IDE config files (optional, but recommended)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files or temp outputs (optional)
+tmux-logs/
+*.log
+*.tmp
