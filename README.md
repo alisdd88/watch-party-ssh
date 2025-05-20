@@ -33,27 +33,6 @@ A fun and geeky way to **watch movies or shows with friends right from your term
 
 ---
 
-## 📁 Project Structure (Planned)
-
-terminal-watch-party/
-│
-├── main.py # Entry point
-├── core/
-│ ├── parser.py # Parses .srt files
-│ └── player.py # Playback control
-├── ui/
-│ └── renderer.py # Handles terminal rendering
-├── network/
-│ └── sync.py # SSH or socket-based sync
-├── chat/
-│ └── chatbox.py # Optional messaging overlay
-├── subtitles/ # Sample .srt files
-├── utils/
-│ └── logger.py
-└── README.md
-
----
-
 ## 🗓️ Project Roadmap
 
 - ✅ Planning & Setup
